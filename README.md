@@ -18,3 +18,9 @@ Essa mudança permite maior flexibilidade financeira e reduz o risco associado �
 **- Segurança:** oferecem altos padrões de segurança, incluindo criptografia, autenticação multifator e monitoramento contínuo, além de garantir a conformidade com regulamentos de privacidade e proteção de dados.
 
 **- Gerenciabilidade:** facilita o gerenciamento dos recursos, permitindo que a infraestrutura seja monitorada e controlada por meio de ferramentas e painéis de controle centralizados, o que simplifica a administração e manutenção do ambiente.
+
+**- Governança:** fornecem ferramentas para monitoramento e gestão centralizada de recursos e serviços, permitindo que as políticas de segurança, uso e conformidade sejam aplicadas de forma consistente em toda a organização.
+
+**- Previsbilidade:** os custos são transformados em despesas operacionais, e as empresas pagam de acordo com o uso real dos recursos. Isso facilita prever os gastos com TI e alocar orçamento de forma mais precisa.
+
+**- Confiabilidade:** os provedores de nuvem possuem datacenters distribuídos globalmente, o que garante redundância e alta disponibilidade dos serviços, minimizando o risco de interrupções.
