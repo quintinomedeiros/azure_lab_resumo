@@ -25,7 +25,7 @@ Essa mudança permite maior flexibilidade financeira e reduz o risco associado �
 
 **- Confiabilidade:** os provedores de nuvem possuem datacenters distribuídos globalmente, o que garante redundância e alta disponibilidade dos serviços, minimizando o risco de interrupções.
 
-# Modelos de ser1. IaaS (Infrastructure as a Service)
+# Modelos de de serviços na nuvem
 **- IaaS**: é um modelo que fornece infraestrutura de TI virtualizada pela Azure, como servidores, armazenamento, redes e sistemas operacionais, de forma sob demanda. Isso permite que as empresas aluguem recursos e configurem seu próprio ambiente, sem a necessidade de comprar e gerenciar hardware físico. As empresas têm controle total sobre o sistema operacional, armazenamento e rede, permitindo configurações personalizadas.
 
 **-PaaS (Platform as a Service):** é um modelo que fornece uma plataforma completa para desenvolvimento, teste e implantação de aplicações. Nesse modelo, a Azure cuida da infraestrutura subjacente e da gestão do sistema operacional, permitindo que os desenvolvedores se concentrem apenas no código e na lógica das aplicações. O controle sobre a infraestrutura é limitado, mas facilita o desenvolvimento, pois inclui bancos de dados, middleware e serviços de gerenciamento.
