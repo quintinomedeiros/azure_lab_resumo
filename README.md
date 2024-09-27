@@ -33,6 +33,9 @@ Essa mudança permite maior flexibilidade financeira e reduz o risco associado �
 **-SaaS (Software as a Service):** é um modelo que fornece softwares prontos e gerenciados pela Azure, onde os usuários finais utilizam as aplicações sem se preocupar com a infraestrutura subjacente ou o desenvolvimento da aplicação. Os usuários têm apenas acesso ao software, sem controle sobre a infraestrutura, sistema operacional ou configuração.
 
 **Diferença entre IaaS, PaaS e SaaS**
+
 **IaaS:** Foco em fornecer infraestrutura. Maior flexibilidade e controle, ideal para migrar sistemas existentes.
+
 **PaaS:** Foco em fornecer uma plataforma para desenvolvimento de aplicações, facilitando o desenvolvimento e reduzindo o tempo de implantação.
+
 **SaaS:** Foco em fornecer softwares prontos para uso, minimizando esforços de manutenção e garantindo acesso a atualizações automáticas.
