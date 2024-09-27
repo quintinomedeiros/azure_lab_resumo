@@ -1,3 +1,5 @@
+# LAB AZURE DIO
+
 # Diferença entre CapEx e OpEx
 
 **- CapEx (Capital Expenditure):** refere-se aos gastos de capital que a empresa faz para adquirir, atualizar ou melhorar ativos físicos de longo prazo, como terrenos, edifícios, equipamentos e infraestrutura. Esses gastos são considerados investimentos, pois geram benefícios que se estendem ao longo do tempo. Eles são contabilizados como ativos no balanço e depreciados ao longo de vários anos. Exemplos de CapEx incluem a compra de servidores, construção de data centers e licenciamento de software por um período longo.
@@ -9,7 +11,7 @@
 **OpEx:** Ao migrar para a computação em nuvem, a empresa transforma muitos desses custos em despesas operacionais, pois paga pela utilização dos recursos de TI conforme a demanda (OpEx), evitando grandes investimentos iniciais.
 Essa mudança permite maior flexibilidade financeira e reduz o risco associado à compra e manutenção de infraestrutura física.
 
-# Resumo dos benefícios do uso da computação em nuvem
+# Benefícios do uso da computação em nuvem
 
 **- Escalabidade:** permite aumentar ou reduzir recursos de forma rápida e eficiente, conforme a necessidade do negócio, sem a necessidade de grandes investimentos em infraestrutura física.
 
