@@ -36,8 +36,8 @@ Essa mudança permite maior flexibilidade financeira e reduz o risco associado �
 
 **Diferença entre IaaS, PaaS e SaaS**
 
-**- IaaS:** Foco em fornecer infraestrutura. Maior flexibilidade e controle, ideal para migrar sistemas existentes.
+**- IaaS:** foco em fornecer infraestrutura. Maior flexibilidade e controle, ideal para migrar sistemas existentes.
 
-**- PaaS:** Foco em fornecer uma plataforma para desenvolvimento de aplicações, facilitando o desenvolvimento e reduzindo o tempo de implantação.
+**- PaaS:** foco em fornecer uma plataforma para desenvolvimento de aplicações, facilitando o desenvolvimento e reduzindo o tempo de implantação.
 
-**- SaaS:** Foco em fornecer softwares prontos para uso, minimizando esforços de manutenção e garantindo acesso a atualizações automáticas.
+**- SaaS:** foco em fornecer softwares prontos para uso, minimizando esforços de manutenção e garantindo acesso a atualizações automáticas.
