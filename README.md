@@ -24,3 +24,15 @@ Essa mudança permite maior flexibilidade financeira e reduz o risco associado �
 **- Previsbilidade:** os custos são transformados em despesas operacionais, e as empresas pagam de acordo com o uso real dos recursos. Isso facilita prever os gastos com TI e alocar orçamento de forma mais precisa.
 
 **- Confiabilidade:** os provedores de nuvem possuem datacenters distribuídos globalmente, o que garante redundância e alta disponibilidade dos serviços, minimizando o risco de interrupções.
+
+# Modelos de ser1. IaaS (Infrastructure as a Service)
+**- IaaS**: é um modelo que fornece infraestrutura de TI virtualizada pela Azure, como servidores, armazenamento, redes e sistemas operacionais, de forma sob demanda. Isso permite que as empresas aluguem recursos e configurem seu próprio ambiente, sem a necessidade de comprar e gerenciar hardware físico. As empresas têm controle total sobre o sistema operacional, armazenamento e rede, permitindo configurações personalizadas.
+
+**-PaaS (Platform as a Service):** é um modelo que fornece uma plataforma completa para desenvolvimento, teste e implantação de aplicações. Nesse modelo, a Azure cuida da infraestrutura subjacente e da gestão do sistema operacional, permitindo que os desenvolvedores se concentrem apenas no código e na lógica das aplicações. O controle sobre a infraestrutura é limitado, mas facilita o desenvolvimento, pois inclui bancos de dados, middleware e serviços de gerenciamento.
+
+**-SaaS (Software as a Service):** é um modelo que fornece softwares prontos e gerenciados pela Azure, onde os usuários finais utilizam as aplicações sem se preocupar com a infraestrutura subjacente ou o desenvolvimento da aplicação. Os usuários têm apenas acesso ao software, sem controle sobre a infraestrutura, sistema operacional ou configuração.
+
+**Diferença entre IaaS, PaaS e SaaS**
+**IaaS:** Foco em fornecer infraestrutura. Maior flexibilidade e controle, ideal para migrar sistemas existentes.
+**PaaS:** Foco em fornecer uma plataforma para desenvolvimento de aplicações, facilitando o desenvolvimento e reduzindo o tempo de implantação.
+**SaaS:** Foco em fornecer softwares prontos para uso, minimizando esforços de manutenção e garantindo acesso a atualizações automáticas.
